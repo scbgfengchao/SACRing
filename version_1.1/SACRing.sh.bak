@@ -12,7 +12,7 @@
 ###
 ###Release date:	Jul. 15th, 2017
 ###
-###Version:	version 1.1
+###Version:	Version 1.1
 ###
 ###Software:	This program is deponded on the following softwares, bowtie ("http://bowtie-bio.sourceforge.net/index.shtml"), bowtie2 ("http://bowtie-bio.sourceforge.net/bowtie2/index.shtml"), Stacks ("http://catchenlab.life.illinois.edu/stacks"), CAP3 ("http://seq.cs.iastate.edu/cap3.html") and blat ("https://users.soe.ucsc.edu/~kent/src"). Please make sure they have been installed and avaliable in your directory.
 ###
